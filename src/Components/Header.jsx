@@ -78,7 +78,7 @@ function Header() {
                 src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3AYS49L56SJg2KUa7bFU6F/2ed3554c9a2665ca44bbe6cac570ea94/r6s-operator-caveira-elite.png"
                 alt="user photo"
               />
-            </button>
+            </button> 
 
             <Link to='/personalfiles' className="border-black text-center border-2 p-2 w-60 rounded-xl bg-gray-200 hover:bg-green-600 hover:text-white hover:transition-all duration-300">
               Personal Files Space
